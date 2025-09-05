@@ -8,7 +8,7 @@
 #### 📫 Onde você pode me encontrar: 
 
 - [Linkedin](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)   
-- [Blog]([https://rodriguesbianca.netlify.app/](https://medium.com/@lemondados))
+- [Blog](https://medium.com/@lemondados)
 
 
  <div style="display: inline_block"><br>
